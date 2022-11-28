@@ -6,3 +6,11 @@ The intention is for the users to enter their monthly budget and the percentage 
 
 
 This project is very useful for students who live abroad or even at home to better manage their money, be aware of their expenses and help them save money.
+
+# Installation:
+Install python 3 and make sure the downloaded .py files are in the same directory.
+
+# Usage:
+1. Open the downloaded directory in your folders
+2. Copy the full path by right-clicking the Address Bar
+3. Open command 
